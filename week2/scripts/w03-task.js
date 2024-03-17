@@ -71,10 +71,10 @@ for (let i = 1; i <= 13; i++) {
   }
 document.querySelector('#array').innerHTML = sourceArray;
 /* Output Odds Only Array */
-let oddArray = sourceArray.filter(number => number % 2 === 0);
+let oddArray = sourceArray.filter(number => number % 2 != 0);
 document.getElementById('odds').innerHTML = oddArray;
 /* Output Evens Only Array */
-let evenArray = sourceArray.filter(number => number % 2 != 0);
+let evenArray = sourceArray.filter(number => number % 2 === 0);
 document.getElementById('evens').innerHTML = evenArray;
 /* Output Sum of Org. Array */
 let sumOfArray = sourceArray.reduce((total,value) => total + value);
