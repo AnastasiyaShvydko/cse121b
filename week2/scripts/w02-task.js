@@ -43,6 +43,7 @@ foodElement.innerHTML = food
 
 let new_food = "Rice"
 
+
 food.push(new_food)
 foodElement.innerHTML += `<br>${food}`
 food.shift()
