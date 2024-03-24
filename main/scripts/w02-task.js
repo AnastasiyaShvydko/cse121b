@@ -5,7 +5,7 @@
 /* Step 2 - Variables */
 
 
-let fullName = "Anastasiya Shvydko";
+let fullName = "Anastasiia Shvydko";
 let currentYear = new Date().getFullYear();
 let profilePicture = "images/my_photo.jpeg"
 
