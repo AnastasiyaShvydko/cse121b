@@ -1,0 +1,9 @@
+[{"question":"I am known as a king<br/> The jungle’s where I reign<br/> It is hard to tame me<br/> And I have a large mane","answer":"Lion"},
+{"question":" I am an animal you might love<br/> But I am too huge to be your pet<br/> I have an extremely long trunk<br/> And it is said I never forget.","answer":"Elephant"},
+{"question":"  I like to use my long tongue<br/> To eat leaves from the tops of trees<br/> I do not have to climb up though<br/> With my long neck, it is a breeze.","answer":"Giraffe"},
+{"question":"  My skin is green and slippery<br/> I have four legs and webbed feet<br/> I hop on land and swim underwater<br/> I love bugs and little fish to eat.","answer":"Frog"},
+{"question":" I am an animal with two long ears,<br/>I hop but don’t walk.","answer":"Rabbit"},
+{"question":" The alphabet goes from A to Z, but I go Z to A.","answer":"Zebra"},
+{"question":"I live in the woods.<br/> I am huge and furry.<br/> I like to eat berries and fish.<br/> And most of all, honey.","answer":"Bear"}
+
+]
